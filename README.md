@@ -2,7 +2,7 @@
 
 This code repository contains a series of 100 simple Javascripts questions and concepts to try with. 
 
-Try answering the questions or if you are stuck paste them on to the browser console to find the solutions. 
+Check your JS skills by attempting these questions. No worries if you get stuck, feel free to try it out on  the browser console to find the solution. 
 
 The same set of entire Questions and Solutions can also be found in this <a href = "https://www.instagram.com/daily.javascripts/">Instagram</a> page.
 

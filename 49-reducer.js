@@ -7,4 +7,5 @@ for (let i = 0; i < numbers.length; i++) {
 
 console.log(sum);
 
+
 // Find the sum of array without using a loop . Use reducer

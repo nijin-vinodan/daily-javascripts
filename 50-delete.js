@@ -5,4 +5,5 @@ const print = (num) => {
 
 console.log(print(50));
 
+
 // What's the Output?

@@ -5,4 +5,5 @@ Promise.resolve(1)
     .then((x) => console.log(x))
     .catch(console.error);
 
+
 // What's the Output?

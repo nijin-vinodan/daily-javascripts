@@ -6,3 +6,5 @@ console.log("Evens", evens);
 
 for (let i = 0; i < odds.length; odds[i++] = i)
     console.log("Odds", odds);
+
+// What's the output?
